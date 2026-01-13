@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Henry and Viora lost themselves / ヘンリーとヴィオラ",
+  "base_artist": "arai tasuku",
+  "createdAt": "2026-01-13T14:55:01.941232Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Henry and Viora lost themselves ヘンリーとヴィオラ (feat. köttur) [2021 Remastered]",
+      "artist": "arai tasuku",
+      "has_synced": false,
+      "path": "select/pl_01_Henry_and_Viora_lost_themselves_ヘンリーとヴィオラ_(feat._köttur)_[2021_Remastered]_arai_tasuku.txt"
+    }
+  ]
+}
